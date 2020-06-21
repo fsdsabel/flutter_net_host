@@ -358,3 +358,10 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+depot_tools/
+engine/*
+!.gclient
+/lib/engine/.cipd
+*.gclient_entries
+/lib/engine/src

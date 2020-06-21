@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FlutterHost": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
